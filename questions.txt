@@ -1,0 +1,10 @@
+1.Input your name and print on console.
+2.Input two string and check weather the strings is equal or not, without using predefine function.
+3.Input two strings and append second string to the first string.
+4.Input a character and check whether the character is vowel or consonent.
+5.Input String and find its length without using predefine function.
+6.Input String and count vowel, consonent,
+7.Input String and count the number of alphabetical uppercase character and lowercase character, whitespace, digit and special character.
+8.Input String and and print after reversing.
+9.Input String and check weathe string is palindrome or not.
+10.Input String and count the total number of word.
